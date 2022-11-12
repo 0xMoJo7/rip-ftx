@@ -100,7 +100,7 @@ function App() {
       <h2>Given current events, we can't guarantee we won't be censored.</h2>
       <h1>Here are the top 100 tweets (in my opinion), as NFTs, explaining the (very sad) events.</h1>
       <h3>These are free to mint, but I hope will serve as a reminder and motivator for builders in this space. We will always come back stronger 💪</h3>
-      <h3>Feel free to check the simple contract (always do this) <a href="https://etherscan.io/address/0x367f5fa4e7f74c650a5ed66bd386d18591a1a8b6#code">here</a></h3>
+      <h3>Feel free to check the simple contract (always do this) <a href="https://etherscan.io/address/0x280B1Dc5D2c9ea5c8FE82cB5891f2F952bA99E4F#code">here</a></h3>
       <div>
         {currentAccount ? mintNftButton() : connectWalletButton()}
       </div>
