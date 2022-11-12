@@ -3,7 +3,7 @@ import './App.css';
 import contract from './contracts/FuckFTX.json';
 import { ethers } from 'ethers';
 
-const contractAddress = "0x367f5fa4e7f74c650a5ed66bd386d18591a1a8b6";
+const contractAddress = "0x280B1Dc5D2c9ea5c8FE82cB5891f2F952bA99E4F";
 const abi = contract.abi;
 
 function App() {
